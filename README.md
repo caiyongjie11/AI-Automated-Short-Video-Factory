@@ -1,2 +1,38 @@
-# AI-
-这是一个可以直接运行的 AI 自动短视频工厂 MVP      功能：  输入一句文案主题 自动生成脚本 自动生成配音 自动匹配素材 自动生成字幕 自动合成短视频 Web 前端操作界面 一键导出 MP4
+# AI Short Video Factory MVP
+
+## 功能
+
+- AI 文案生成
+- AI 配音
+- FFmpeg 自动生成视频
+- React 前端
+
+## 启动项目
+
+### 后端
+
+```bash
+cd backend
+npm install
+npm run dev
+```
+
+### 前端
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+## 依赖
+
+### FFmpeg
+
+https://ffmpeg.org/download.html
+
+### Edge-TTS
+
+```bash
+pip install edge-tts
+```

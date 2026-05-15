@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  background: #0f1115;
+  color: white;
+  font-family: Arial;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 40px;
+}
+
+textarea {
+  width: 100%;
+  height: 120px;
+  padding: 15px;
+  border-radius: 10px;
+  margin-top: 20px;
+  background: #1d2330;
+  color: white;
+  border: none;
+}
+
+button {
+  margin-top: 20px;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 10px;
+  background: #4f7cff;
+  color: white;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.card {
+  margin-top: 30px;
+  background: #1a1f29;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.video {
+  width: 100%;
+  margin-top: 30px;
+  border-radius: 12px;
+}
